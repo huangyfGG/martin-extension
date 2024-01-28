@@ -1,0 +1,18 @@
+[submodule "martin-extension-generator"]
+	path = martin-extension-generator
+	url = git@github.com:www-zerocode-net-cn/martin-extension-generator.git
+[submodule "martin-extension-loco"]
+	path = martin-extension-loco
+	url = git@github.com:www-zerocode-net-cn/martin-extension-loco.git
+[submodule "martin-extension-monitor"]
+	path = martin-extension-monitor
+	url = git@github.com:www-zerocode-net-cn/martin-extension-monitor.git
+[submodule "martin-extension-ncnb"]
+	path = martin-extension-ncnb
+	url = git@github.com:www-zerocode-net-cn/martin-extension-ncnb.git
+[submodule "martin-extension-quartz"]
+	path = martin-extension-quartz
+	url = git@github.com:www-zerocode-net-cn/martin-extension-quartz.git
+[submodule "martin-extension-skywalking"]
+	path = martin-extension-skywalking
+	url = git@github.com:www-zerocode-net-cn/martin-extension-skywalking.git
